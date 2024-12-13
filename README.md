@@ -28,6 +28,47 @@ SibSp and Parch: Number of family members onboard.
 Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton).
 
 Dataset Relevance:
-The dataset provides all the necessary variables to analyze factors influencing survival rates, such as gender, age, passenger class, and family relationships
-![image](https://github.com/user-attachments/assets/6ccf44a8-b7eb-44d3-90a4-283608feb2a0)
+The dataset provides all the necessary variables to analyze factors influencing survival rates, such as gender, age, passenger class, and family relationships.
+
+
+Questions and Answers
+1.	What is the overall survival rate of Titanic passengers?
+Answer: Based on the Survived column, the survival rate is approximately 38%, 
+2.	How does gender affect the survival rate?
+Answer: Grouped analysis shows that female passengers had a significantly higher survival rate than male passengers, indicating a priority for rescuing women during the evacuation. This indicates that the priority of rescue for women is higher than that for men
+3.	Is there a significant difference in survival rates across different passenger classes (Pclass)?
+Answer: Survival rates are notably higher for passengers in higher classes (especially 1st class). This suggests that passenger class influenced rescue priority. It could be proximity to the lifeboats or social norms. 
+4.	Does age influence survival rate?
+Answer: Boxplots or age distribution analysis reveal that younger passengers (especially children) had a higher survival rate.
+5.	What is the impact of embarkation ports (Embarked) on survival rates?
+Answer: Grouped statistics show that passengers who embarked from Cherbourg (C) had the highest survival rate, possibly due to a higher concentration of first-class passengers from this port.
+6.	Did traveling with family affect survival rates?
+Answer: Grouped analysis based on the combined values of SibSp and Parch indicates that passengers with a moderate number of family members had a higher survival rate, while those traveling alone or with many family members had lower survival rates. Medium-sized families may be better helped during the evacuation process or because family members help each other.
+
+
+Titanic data analysis summary report
+
+Data background
+Titanic data set contains the basic information of passengers and survival labels for analyzing the factors affecting the survival rate.
+
+Key finding
+
+Female passengers have a significantly higher survival rate than male passengers.
+The survival rate of first class passengers is significantly higher than that of other classes.
+
+The survival rate for child passengers is better than average.
+
+The port of embarkation (Cherbourg) has the highest survival rate for passengers.
+
+Data support
+
+Charts and data presentations (e.g., survival charts, sex and survival charts, etc.).
+
+Conclusion
+
+The main influencing factors of survival rate include sex, cabin and age. These factors may play an important role in prioritizing rescue decisions in a disaster.
+
+
+
+
 
