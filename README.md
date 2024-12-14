@@ -496,7 +496,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb8-1"><a hr
 <span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/72fcaee2793b98cf34280c1f787f958399c1b664.png" /></p>
+src="72fcaee2793b98cf34280c1f787f958399c1b664.png" /></p>
 </div>
 </div>
 <div id="OFoBp66t4LHL" class="cell markdown" id="OFoBp66t4LHL">
@@ -512,7 +512,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb9-1"><a hr
 <span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/83f5fa483758d951217375eb2e9b2985076783d5.png" /></p>
+src="83f5fa483758d951217375eb2e9b2985076783d5.png" /></p>
 </div>
 </div>
 <div id="Snt31FfY4LK3" class="cell markdown" id="Snt31FfY4LK3">
@@ -527,7 +527,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb10-1"><a h
 <span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/610ab7adfbd1c355498bede24e121693c37c3c0f.png" /></p>
+src="610ab7adfbd1c355498bede24e121693c37c3c0f.png" /></p>
 </div>
 </div>
 <div id="sYaS2ePS4LN9" class="cell markdown" id="sYaS2ePS4LN9">
@@ -542,7 +542,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb11-1"><a h
 <span id="cb11-3"><a href="#cb11-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/4d28f396c93c733cad75be52b61deb21aa937408.png" /></p>
+src="4d28f396c93c733cad75be52b61deb21aa937408.png" /></p>
 </div>
 </div>
 <div id="UszDsXoh4LgO" class="cell markdown" id="UszDsXoh4LgO">
@@ -557,7 +557,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb12-1"><a h
 <span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/dc3de73f5609c91e5971591fc3f2cb74cace80a9.png" /></p>
+src="dc3de73f5609c91e5971591fc3f2cb74cace80a9.png" /></p>
 </div>
 </div>
 <div id="Hya3Lphj5Qtb" class="cell markdown" id="Hya3Lphj5Qtb">
@@ -573,7 +573,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb13-1"><a h
 <span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/9dbecc3db5ce44ad2598eee80af7537286939f98.png" /></p>
+src="9dbecc3db5ce44ad2598eee80af7537286939f98.png" /></p>
 </div>
 </div>
 <div id="QGk7gviy5S9H" class="cell markdown" id="QGk7gviy5S9H">
@@ -589,7 +589,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb14-1"><a h
 <span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/a830cf82203d9996765a14167cd775c78738a3da.png" /></p>
+src="a830cf82203d9996765a14167cd775c78738a3da.png" /></p>
 </div>
 </div>
 <div id="qHLXiGMy5TKy" class="cell markdown" id="qHLXiGMy5TKy">
@@ -616,7 +616,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb16-1"><a h
 <span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/9fb581c2c5ce350a6901356f6c9379277f1debd3.png" /></p>
+src="9fb581c2c5ce350a6901356f6c9379277f1debd3.png" /></p>
 </div>
 </div>
 <div id="955Pi8Wa6UgJ" class="cell markdown" id="955Pi8Wa6UgJ">
