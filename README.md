@@ -480,7 +480,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb7-1"><a hr
 <span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>plt.show()</span></code></pre></div>
 <div class="output display_data">
 <p><img
-src="vertopal_02cd93c0ceb54a44986da2c869cef483/6193b0a018b64d2a2fe7761bd53561b4aee5dcbd.png" /></p>
+src="6193b0a018b64d2a2fe7761bd53561b4aee5dcbd.png" /></p>
 </div>
 </div>
 <div id="7-6JFtG84LA4" class="cell markdown" id="7-6JFtG84LA4">
